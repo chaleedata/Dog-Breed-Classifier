@@ -3,8 +3,7 @@ Convolutional Neural Network was built to classify dog breeds by user-supplied i
 
 # Convolutional Neural Networks have 2 main components.
 1.Feature learning: convolution, ReLU,Pooling layer phases here. Edges,shades,lines,curves, in this Feature learning step are get extracted.
-
-2. Classification: I will assign a probability for the object on the image being what the algorithm predicts it is.
+2.Classification: I will assign a probability for the object on the image being what the algorithm predicts it is.
 
 # Libraries 
 - Keres 
