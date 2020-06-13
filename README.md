@@ -1,5 +1,6 @@
 # Project Overview
-Convolutional Neural Network was built to classify dog breeds by user-supplied images.It not like neural networks which see images differently than humans. they see images as pixels.The objective is given an image dog,The algorithm can identify of the canine’s breed.
+Convolutional Neural Network was built to classify dog breeds by user-supplied images.It not like neural networks which see images differently than humans. they see images as pixels.The objective is given an image dog,The algorithm can identify of the canine’s breed. 
+A link to the Medium article can be found [here](https://medium.com/@chalee.chea/first-time-creating-a-cnn-dog-classifier-5d0eaa5a94bd).
 
 # Convolutional Neural Networks have 2 main components.
 1.Feature learning: convolution, ReLU,Pooling layer phases here. Edges,shades,lines,curves, in this Feature learning step are get extracted.<br />
